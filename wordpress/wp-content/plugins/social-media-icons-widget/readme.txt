@@ -4,7 +4,7 @@ Tags: social, media, widget, follow, profile, icons, 500px, About.me, Behance, D
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CJN7XU3Z7XHDL
 Requires at least: 3.5.1
 Tested up to: 4.5
-Stable tag: 16.04
+Stable tag: 16.07
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -73,6 +73,9 @@ The opening and closing unordered list tags can be edited or changed with the so
 2. Widget settings via the Appearance > Widgets screen.
 
 == Changelog ==
+
+= 16.07 =
+* Updated some social icons to their newer logos
 
 = 15.10 =
 * Removed all of the floats in favor of display:inline-block instead
